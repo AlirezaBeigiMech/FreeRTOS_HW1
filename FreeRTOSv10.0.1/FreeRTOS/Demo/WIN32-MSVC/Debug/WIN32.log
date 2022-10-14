@@ -1,0 +1,8 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9002: ignoring unknown option '/wc4574'
+  main.c
+C:\Users\AlirezaBeigi\Desktop\FreeRTOS\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(177,19): warning C4113: 'void (__cdecl *)(void)' differs in parameter lists from 'TaskFunction_t'
+C:\Users\AlirezaBeigi\Desktop\FreeRTOS\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(178,19): warning C4113: 'void (__cdecl *)(void)' differs in parameter lists from 'TaskFunction_t'
+C:\Users\AlirezaBeigi\Desktop\FreeRTOS\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(174,14): warning C4101: 'XT': unreferenced local variable
+C:\Users\AlirezaBeigi\Desktop\FreeRTOS\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(183): warning C4702: unreachable code
+  WIN32.vcxproj -> C:\Users\AlirezaBeigi\Desktop\FreeRTOS\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
